@@ -2,7 +2,7 @@
 
 Discord.NET 을 이용한 reverse shell
 ## Usage
-
+edit [value](https://github.com/root1234567891234/Discrod_Rat/blob/master/AntiMalware/value.cs)
 ```C# 8
 private static GET GET = new GET();
 // 본 프로그램의 이름
