@@ -14,8 +14,7 @@ public string version = " | 2.23v";
 // 디스코드 봇 토큰
 public string bot_token = "";
 // 웹훅링크
-public string EndPoint =
-@"";
+public string EndPoint = @"";
 // ip
 public string ip = GET.ip();
 // 드랍박스 연결
