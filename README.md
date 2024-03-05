@@ -8,10 +8,10 @@ Discord.NET 을 이용한 reverse shell
 
 public 명령어입니다.
 ```
-all                                            모든 피해자 목록 조회
-all_screenshot                                 모든 피해자 화면 가져오기
-all_camshot                                    모든 피해자 캠 가져오기
-all_shell                                      모든 피해자에게 shell 명령어 실행
+all                                           모든 피해자 목록 조회
+all_screenshot                                모든 피해자 화면 가져오기
+all_camshot                                   모든 피해자 캠 가져오기
+all_shell                                     모든 피해자에게 shell 명령어 실행
 ```
 private 명령어입니다.
 ```
